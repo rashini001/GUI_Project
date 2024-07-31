@@ -1,0 +1,31 @@
+E:\GUI\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+E:\GUI\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+E:\GUI\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+E:\GUI\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+E:\GUI\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.SuggestedBindingRedirects.cache
+E:\GUI\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+E:\GUI\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+E:\GUI\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+E:\GUI\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+E:\GUI\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+E:\GUI\CourseWork\CourseWork\obj\Debug\CourseWork.frmDashboard.resources
+E:\GUI\CourseWork\CourseWork\obj\Debug\CourseWork.frmLoginPage.resources
+C:\Users\user\Desktop\Course Work\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\user\Desktop\Course Work\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\user\Desktop\Course Work\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\user\Desktop\Course Work\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Course Work\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Course Work\CourseWork\CourseWork\obj\Debug\CourseWork.frmAddBooks.resources
+C:\Users\user\Desktop\Course Work\CourseWork\CourseWork\obj\Debug\CourseWork.frmAddStudent.resources
+C:\Users\user\Desktop\Course Work\CourseWork\CourseWork\obj\Debug\CourseWork.frmDashboard.resources
+C:\Users\user\Desktop\Course Work\CourseWork\CourseWork\obj\Debug\CourseWork.frmIssueBook.resources
+C:\Users\user\Desktop\Course Work\CourseWork\CourseWork\obj\Debug\CourseWork.frmLoginPage.resources
+C:\Users\user\Desktop\Course Work\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\user\Desktop\Course Work\CourseWork\CourseWork\obj\Debug\CourseWork.frmViewBook.resources
+C:\Users\user\Desktop\Course Work\CourseWork\CourseWork\obj\Debug\CourseWork.frmViewStudentInformation.resources
+C:\Users\user\Desktop\Course Work\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Course Work\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Course Work\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\user\Desktop\Course Work\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\user\Desktop\Course Work\CourseWork\CourseWork\obj\Debug\CourseWork.frmReturnBook.resources
+C:\Users\user\Desktop\Course Work\CourseWork\CourseWork\obj\Debug\CourseWork.frmCompleteBook.resources
